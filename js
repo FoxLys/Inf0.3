@@ -1,1 +1,0 @@
-C:/1i/Programing-ECoding/egzaminyINF0.3_js
